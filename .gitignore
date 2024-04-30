@@ -3,7 +3,8 @@
 # For example we ignore the hidden files from Pycharm and VS Code.
 .idea/
 .vscode
-*.xml
+.idea/workspace.xml
+.idea/misc.xml
 ### Also any macOS specific files
 .DS_Store
 .AppleDouble
